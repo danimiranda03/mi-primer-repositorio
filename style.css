@@ -1,0 +1,21 @@
+img{
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    display: flex;
+}
+
+.imagen{
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #22f2;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: oblique;
+
+}
